@@ -1,0 +1,28 @@
+TweetBot
+====
+
+[Description/Details]
+
+TweetBot is one in a million Twitter bot using tweepy.
+I created that bot to "protest" against the 31st of August post election troubles in Gabon.
+The bot can :
+## track words/hashtags in tweets
+## fav tweets
+## retweet
+## follow a tweet owner
+## follow tweets from specific accounts
+## avoid tweets from a set of accounts
+## ...
+
+Usage
+-----
+python TweetBot.py
+
+Configuration
+------------
+TODO
+
+Authors
+-------
+
+`TweetBot` was written by `Jeyfel Brandauer <jeyfelbrandauer@gmail.com>`_.
