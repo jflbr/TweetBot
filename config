@@ -1,0 +1,74 @@
+
+[settings]
+search_query:#BongoIsKilling
+# Leave empty for all languages
+tweet_language:
+
+[twitter]
+consumer_key:fillMe
+consumer_secret:fillMe
+access_token:fillMe
+access_token_secret:fillMe
+
+[strategy]
+retweet:True
+fav:False
+follow:False
+
+[track]
+words = [
+    "#BongoIsKilling","#BongoIsCheating",
+    "#FreeGabon","#297pvFalsifies",
+    "#AliMustGo"
+    ]
+
+[banned]
+accounts = [
+     "corcas_autonomy","laraineadrian1","OllyGloriana",
+     "MoselleLionel","BennyhomerBenny","StormiErwin",
+     "dobadanjuste","annecorinnekil4","ndong_ali",
+     "ndong_roger","derick364","maxorere",
+     "patyemb","yannick_londo","oyambe_doriane",
+     "simangoye_arman","WainKorney","CelesMaroga",
+     "jacquelinemarcc","UneFemmeAvertie","jean_oyone",
+     "grataholden1","cloriscass","TallyCary",
+     "Mapiola_Victoir","Hondolau","AnglomaFelicite",
+     "DavidNdoh01","rodrigueessono4","jeannyweb77",
+     "faobameobam","heleneobiang","aba_sherone",
+     "anita_esse","latona_vanessa","sjaboun",
+     "JMpendaga","MichelPoko","Marjorie_Mushro",
+     "obiang_helene","JacquesKoumba01","EstherWeziza",
+     "GenerationConsc","Voice241","dobadanjuste",
+     "TBadoba","ClorisCass","GlennCornall","norenecarey2",
+     "Ibeyi_Yann","CelesMaroga","ClaudiaMedza","Difloela",
+     "LachwanaB","Gabon2016gabon","OyabiZul","elvissia_G",
+     "floralinemarou1","AfricTelegraph","RMedome","Gabonevasion",
+     "eeklavenes","TitosAbbi","RonnieDonica","joeterowland1",
+     "ZebCherrita","JacquelineMarcc","SiffreChastity","vivi_wado",
+     "leolinecob","carolinearche18","Rodscarlettrod","ingabergflory",
+     "RockerNathanial","emelinaAndras","DenneyAmeline",
+     "MalyndadalSkate","RochellJephthah","TallouDes","JamaalFey",
+     "StaffardBarry","SpencerKikelia","BelookGabon","boobaafrica",
+     "cherrijimmie1","MwanSang","charlewing","RevengaVerolili",
+     "CelestinWarrior","franckchristop4","SiffreChastity","TroyAilis",
+     "JuliarogerRoger","RoderickDolphin","barbrawilli1","LianeCasper",
+     "AssisesEtudiant","AkraziaGabon","StuddedDorothee","MelessaChrisse",
+     "cloviswilliam2","BrodericBrena","herminebentley1","lindsaymoussav3",
+     "EBivouli","mukuangaannes","koumbapatriciam","MatsangaFranck",
+     "Yanmilam","MartyBetteann","paquitakate33"
+     ]
+
+words = [
+    "corcas_autonomy","@corcas_autonomy","@laraineadrian1",
+    "@OllyGloriana","@MoselleLionel","@BennyhomerBenny",
+    "@StormiErwin","@dobadanjuste","#BongoIsWinning",
+    "@annecorinnekil4","#NowWorkGabon","#PingIsCheating",
+    "#JeanFlippe","#PingIsKilling","#BongoWon"
+    ]
+
+[follow]
+accounts = []
+
+[whitelist]
+accounts = []
+words = []
